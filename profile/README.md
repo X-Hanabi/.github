@@ -10,3 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### 团队简述
+游戏制作工作室
+诞生于2026-1-29 14:02
+
+--------------------
+
+创意空窗期……
+
+--------------------
